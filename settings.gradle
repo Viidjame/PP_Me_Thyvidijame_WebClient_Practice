@@ -1,0 +1,5 @@
+rootProject.name = 'Microservice'
+include 'common-service'
+include 'course-service'
+include 'student-service'
+
